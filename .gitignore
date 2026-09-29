@@ -1,0 +1,12 @@
+# Esta es una vitrina: aqui no entra nada del producto.
+# El codigo fuente del Taller de Marca en Vivo es propiedad de MyS SinergiaaS y vive en
+# otro sitio. Si algun dia alguien copia el proyecto a esta carpeta, que no
+# se suba por accidente.
+*.env
+.env*
+node_modules/
+dist/
+build/
+*.key
+*.pem
+*.hex
